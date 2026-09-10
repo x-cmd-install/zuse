@@ -12,6 +12,15 @@ ZUSE is an irc client for the terminal made in Go with Bubbletea
 x install zuse
 ```
 
+## Code insight
+
+Total: **1,003** lines of code across **2** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 1,003 | 40 | 154 | 1 |
+| Markdown | 0 | 44 | 22 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/babycommando/zuse>
@@ -35,17 +44,19 @@ x install zuse
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 1 | 0 | 0 | 0 | 1 | 6 |
 
-## Code size
+## Distribution status
 
-Total: **1,003** lines of code across **2** files in the top 5 languages.
+Reported by **4** distros on [repology.org](https://repology.org/project/zuse). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 1,003 | 40 | 154 | 1 |
-| Markdown | 0 | 44 | 22 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.0` | ✅ latest |
 
 ## Improve this data
 
@@ -56,4 +67,4 @@ Install metadata for zuse lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:55:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:31:01Z._
