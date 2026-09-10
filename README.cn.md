@@ -4,7 +4,7 @@
 
 ZUSE is an irc client for the terminal made in Go with Bubbletea
 
-![zuse](https://repo.x-cmd.io/zuse.svg)
+![zuse](https://repo.x-cmd.io/zuse.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install zuse
 
 - **最新版本**: `v1.0` (2025-07-28)
 - **最近提交**: 2025-07-28
-- **发布时间**: 2025-07-28T00:28:12Z
 
 ## 流行度
 
@@ -57,4 +56,4 @@ zuse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:44:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:55:47Z._
