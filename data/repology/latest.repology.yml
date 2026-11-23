@@ -2,8 +2,8 @@
   srcname: zuse-bin
   binname: zuse-bin
   visiblename: zuse-bin
-  version: 0.27.3
-  origversion: 0.27.3-1
+  version: 0.27.6
+  origversion: 0.27.6-1
   status: outdated
   summary: Desktop and browser control plane for coding agents
   maintainers:
