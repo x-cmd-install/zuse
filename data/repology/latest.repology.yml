@@ -1,9 +1,20 @@
+- repo: nix_stable_25_11
+  srcname: zuse
+  visiblename: zuse
+  version: "1.0"
+  origversion: null
+  status: newest
+  summary: IRC client for the terminal made in Go with Bubbletea
+  maintainers:
+    - yiyu@yiyuzhou.io
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: zuse-bin
   binname: zuse-bin
   visiblename: zuse-bin
-  version: 0.27.7
-  origversion: 0.27.7-1
+  version: 0.27.8
+  origversion: 0.27.8-1
   status: outdated
   summary: Desktop and browser control plane for coding agents
   maintainers:
@@ -20,17 +31,6 @@
   summary: A sleek, minimal IRC client for your terminal written in Go with Bubble Tea framework
   maintainers:
     - magrid0@aur
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: zuse
-  visiblename: zuse
-  version: "1.0"
-  origversion: null
-  status: newest
-  summary: IRC client for the terminal made in Go with Bubbletea
-  maintainers:
-    - yiyu@yiyuzhou.io
   licenses:
     - Apache-2.0
 - repo: nix_stable_26_05
