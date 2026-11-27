@@ -43,12 +43,12 @@ Total: **1,003** lines of code across **2** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 1 | 0 | 0 | 0 | 1 | 6 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 1 | 0 | 0 | 0 | 1 | 6 |
 
 ## Improve this data
 
@@ -59,4 +59,4 @@ Install metadata for zuse lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T07:27:17Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T07:23:48Z._
